@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pic Organizer</string>
+    <string name="str_action_setting">Settings</string>
 </resources>
